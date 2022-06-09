@@ -72,6 +72,8 @@
             "@helper_localstorage": ["src/helpers/localstorage", "core/helpers/localstorage"],
 
             "@common_button": ["src/modules/commons/Button", "core/modules/commons/Button"],
+            "@common_buttonlink": ["src/modules/commons/ButtonLink", "core/modules/commons/ButtonLink"],
+            "@common_buttonicon": ["src/modules/commons/ButtonIcon", "core/modules/commons/ButtonIcon"],
             "@common_buttonqty": ["src/modules/commons/ButtonQty", "core/modules/commons/ButtonQty"],
             "@common_breadcrumb": ["src/modules/commons/Breadcrumb", "core/modules/commons/Breadcrumb"],
             "@common_confirmdialog": ["src/modules/commons/ConfirmDialog", "core/modules/commons/ConfirmDialog"],
