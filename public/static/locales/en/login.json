@@ -1,6 +1,6 @@
 {
     "haveAccount": "If you have an account",
-    "pageTitle": "Sign in",
+    "pageTitle": "Log in",
     "forgotPassword": "Forgot password",
     "notHaveAccount": "Don't have an account?",
     "switchPhone": "Login with phone number",
@@ -10,12 +10,12 @@
     "customerLogin": "Customer login",
     "registerCustomer": "Registered customer",
     "newCustomer": "New customer",
-    "loginInformation": "If you have an account, sign in with your email address.",
-    "loginPhoneEmailInformation": "If you have an account, sign in with your email address or phone number.",
+    "loginInformation": "If you have an account, log in with your email address.",
+    "loginPhoneEmailInformation": "If you have an account, log in with your email address or phone number.",
     "phoneEmailLabel": "Email or Phone Number",
     "emailLabel": "Email",
     "phoneEmailFields": "john.doe@gmail.com / +628123456789",
     "emailFields": "john.doe@gmail.com",
-    "loginOtpInformation": " If you have an account with registered phone number, sign in with your phone number.",
+    "loginOtpInformation": " If you have an account with registered phone number, log in with your phone number.",
     "registerInformation": "Creating an account has many benefits: check out faster, keep more than one address, track orders and more."
 }
