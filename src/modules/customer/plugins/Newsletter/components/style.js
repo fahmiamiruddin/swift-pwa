@@ -2,11 +2,12 @@ import makeStyles from '@material-ui/core/styles/makeStyles';
 
 const useStyles = makeStyles({
     subscribeMail: {
-        borderRadius: '50px !important',
+        borderRadius: '0px !important',
     },
     subscribeBtn: {
-        background: 'red !important',
-        color: 'black !important',
+        borderRadius: '0px !important',
+        background: 'rgb(185 37 144) !important',
+        color: '#fff !important',
     },
 });
 
